@@ -1,6 +1,8 @@
 # Cybersecurity-Lab-Environment-Setup
-Setting up a personal virtual lab for cybersecurity practice and hands-on learning
+Setting up a personal virtual lab for cybersecurity practice and hands-on practice
 
+📌 Project Overview
+For this project, I built my own virtual cybersecurity lab using VirtualBox and Kali Linux. The goal was to create an isolated environment on my personal laptop where I can safely practice cybersecurity tools, scanning, and hands-on exercises without putting my real machine or my home network at risk.
 
 Objectives
 The main objectives of this project were to:
